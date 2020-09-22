@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\obj\Debug\netcoreapp3.1\Arr 2 Dim.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\obj\Debug\netcoreapp3.1\Arr 2 Dim.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\obj\Debug\netcoreapp3.1\Arr 2 Dim.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\bin\Debug\netcoreapp3.1\Arr 2 Dim.exe
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\bin\Debug\netcoreapp3.1\Arr 2 Dim.deps.json
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\bin\Debug\netcoreapp3.1\Arr 2 Dim.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\bin\Debug\netcoreapp3.1\Arr 2 Dim.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\bin\Debug\netcoreapp3.1\Arr 2 Dim.dll
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\bin\Debug\netcoreapp3.1\Arr 2 Dim.pdb
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\obj\Debug\netcoreapp3.1\Arr 2 Dim.dll
+C:\Users\Anatoliy\source\repos\Arr 2 Dim\Arr 2 Dim\obj\Debug\netcoreapp3.1\Arr 2 Dim.pdb
